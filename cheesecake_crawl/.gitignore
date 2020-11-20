@@ -1,0 +1,6 @@
+debug.log
+__pycache__
+.idea
+clean_menu.json
+dirty_menu.json
+serviceAccountKey.json
